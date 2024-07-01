@@ -1,0 +1,8 @@
+data = [
+['name', 'age', 'state'],
+['walida', 25, 'minna'],
+['salma', 4, 'ilorin'],
+['rahma', 33, 'abuja']
+['tayo', 77, 'lafia'],
+['kamala', 45, 'trinidad']
+]
